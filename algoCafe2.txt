@@ -1,0 +1,17 @@
+﻿Algoritmo: Tomar café e ir para o trabalho
+1. Início
+2. Acordar e desligar o despertador.
+3. Levantar da cama.
+4. Ir até a cozinha.
+5. Preparar o café.
+   * a. Pegar a cafeteira.
+   * b. Colocar água e café.
+   * c. Ligar a cafeteira.
+6. Servir o café na xícara.
+7. Tomar o café.
+8. Ir ao quarto e trocar de roupa.
+9. Organizar os itens para o trabalho.
+   * a. Verificar documentos.
+   * b. Pegar chaves e carteira.
+10. Sair de casa em direção ao trabalho.
+11. Fim
